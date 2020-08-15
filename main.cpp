@@ -8,7 +8,7 @@ int main(int argc, char** argv) {
 	cout<<"Agrege un menu"<<endl;
 	cout<<"Master verifica el menu de Bienvenida."<<endl;
 	cout<<"Se agrega un login"<<endl;
-	cout<<"Se agrega un menu de Notebook"<<endl;
+	cout<<"Se agrega control a base de datos."<<endl;
 	
 	return 0;
 }
