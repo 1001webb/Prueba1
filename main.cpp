@@ -7,6 +7,7 @@ int main(int argc, char** argv) {
 	cout<<"Prueba Master"<<endl;
 	cout<<"Agrege un menu"<<endl;
 	cout<<"Master verifica el menu de Bienvenida."<<endl;
+	cout<<"Se agrega un login"<<endl;
 	
 	return 0;
 }
